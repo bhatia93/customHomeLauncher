@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HomeLauncher</string>
+    <string name="filter_hint">Type app name here to filter</string>
+</resources>
